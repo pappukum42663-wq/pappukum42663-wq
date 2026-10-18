@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Pappu Kumar
 A passionate Fullsatck Developer || Software Engineer || 
 
-Email Me 👉 ✉️ **pappukum42663@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **pappukum42663@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building a Todo List application using React.js
 - 🌱 **I’m currently learning:** React.js, JavaScript, Node.js and Web APIs
